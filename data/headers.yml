@@ -2,13 +2,9 @@
   icon: fa fa-home
   link: "./"
 
-- item: 作者
-  icon: fa fa-user-secret
-  link: https://xazz.top/about
-
 - item: 博客
   icon: fa fa-blog
-  link: https://xazz.top
+  link: https://blog.sysii.cn
 
 - item: 关于
   icon: fa fa-cog
